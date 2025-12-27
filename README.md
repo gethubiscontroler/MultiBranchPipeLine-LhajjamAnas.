@@ -1,8 +1,9 @@
-\# TP MultiBranch Pipeline - Lhajjam Anas
+\# TP DevOps: MultiBranch Pipeline 
 
+\# Étudiant 
+   Nom Prénom : Anas Lhajjam
 
-
-\## Description
+\## Objectif :
 
 Ce projet est un pipeline Jenkins MultiBranch pour une application Java Maven.
 
